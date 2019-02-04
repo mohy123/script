@@ -1,5 +1,5 @@
 # script
-run commands using ssh on many severs
+run commands using ssh on multipe severs
 1.#touch file-name.sh  to create file.
 2.#nano file_name.sh  to write script.
 3.wirte all server_ips in SERVERS.
